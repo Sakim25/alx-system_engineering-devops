@@ -1,1 +1,1 @@
-Shell basics on scrips
+Scipt update
